@@ -38,7 +38,7 @@ const Dashboard = () => {
             </Link>
             <Link to="/budget">
                 <button className="button type1">
-                    <span className="btn-txt">Budget</span>
+                    <span className="btn-txt">Budgeting Page</span>
                 </button>
             </Link>
             <Link to="/login">
